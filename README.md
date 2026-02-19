@@ -1,24 +1,24 @@
-## 👋 Hi, I'm Arkan (2kfi)
+# 💫 About Me:
+🖥️ Tinkerer, homelabber, and “what-if” overthinker<br>🔭 I’m currently working on net type of voice assistant for smart and passive homes<br>🛠️ Passionate about reviving couch/LAN multiplayer for low-spec machines—championing split-screen and 1GB RAM-friendly fun<br>🌱 I’m currently learning python, C++, Networking, Docker (and Podman), Virtualization and about cool things!<br>📷 Self-hosting, networking, and tinkering with old tech are my jam<br>👑 Run a tiny army of Atom mini-PCs (three of them)<br>🗝️ Carrying a sense of legacy—want what I build to last beyond me<br>🤝 I’m looking for help the FOSS community<br>💬 Ask me if you want to help<br>⚡ Fun fact : I'm 17 years old and i started using linux when i was just 14!
 
-Old-school values, relentless curiosity, and a taste for bending tech to my will. I build homelabs out of scrap like a cyberpunk engineer in a thrift store—turning Atom CPUs into fortress-grade servers. My mind drifts between physics, psychology, and “what if” scenarios, but I lock down on practical, hands-on setups.
 
-- 🎒 16-year-old student from Al-Karak, Jordan
-- 🖥️ Tinkerer, homelabber, and “what-if” overthinker
-- 🛠️ Passionate about reviving couch/LAN multiplayer for low-spec machines—championing split-screen and 1GB RAM-friendly fun
-- 👑 Run a tiny army of Atom mini-PCs (three of them)
-- 🎨 Find beauty in simplicity, but make it run like clockwork
-- 🧬 Interests: tech, engineering, psychology, biology (cells, bacteria, viruses), math, sci-fi, romance novels, and anime
-- 💻 Bilingual: Arabic 🇯🇴 & English 🇺🇸 | OS: Arch Linux, Ubuntu, FreeBSD & Windows
-- 📷 Self-hosting, networking, and tinkering with old tech are my jam
-- 🗝️ Carrying a sense of legacy—want what I build to last beyond me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2k.fii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkanpers2@gmail.com) 
 
-### Social Links
-- Instagram: [2k.fii](https://instagram.com/2k.fii)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2kfi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2kfi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2kfi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=2kfi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=2kfi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=2kfi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> **My Projects**  
-> Most of my best projects aren’t on GitHub yet—should I add them? (Let me know!)  
-> Passionate about engineering solutions for low-end hardware, especially fun LAN gaming experiences.
----
-
-Feel free to connect!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
