@@ -76,3 +76,7 @@ Medical student from Jordan, interested in networking, over-engineering cheap ha
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=2kfi&layout=compact&theme=tokyonight&title_color=7aa2f7&icon_color=89ddff&text_color=a9b1d6&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+
+
+
+![](https://komarev.com/ghpvc/?username=2kfi&color=gray)
