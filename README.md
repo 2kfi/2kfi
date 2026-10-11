@@ -80,3 +80,8 @@ Medical student from Jordan, interested in networking, over-engineering cheap ha
 
 
 ![](https://komarev.com/ghpvc/?username=2kfi&color=gray)
+
+bad spilling :
+arkan fakoseh
+أركان فقوسة
+اركان فقوسه
